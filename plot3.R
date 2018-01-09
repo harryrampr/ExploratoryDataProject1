@@ -1,4 +1,4 @@
-# The script generates Plot #3, a plot of "Energy Sub metering" vs "DateTime".
+# The script generates Plot #3, a plot of "Energy Sub metering" vs "DateTime". 
 #
 
 # Get data if not already available

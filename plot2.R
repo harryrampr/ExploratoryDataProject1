@@ -1,4 +1,4 @@
-# The script generates Plot #2, a plot of "Global Active Power" vs "DateTime".
+# The script generates Plot #2, a plot of "Global Active Power" vs "DateTime". 
 #
 
 # Get data if not already available

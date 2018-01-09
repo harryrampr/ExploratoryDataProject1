@@ -1,4 +1,4 @@
-# The script generates Plot #1, a histogram of "Global Active Power".
+# The script generates Plot #1, a histogram of "Global Active Power". 
 #
 
 # Get data if not already available
